@@ -1,4 +1,4 @@
-# Opensource Straitjacket for Alexa
+# Open Source Straitjacket for Alexa
 
 Onomatopoeia is a word that phonetically imitates, resembles or suggests the sound that it describes. 
 
